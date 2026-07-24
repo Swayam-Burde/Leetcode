@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/Swayam-Burde/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0518-coin-change-ii) |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
