@@ -2,7 +2,6 @@ class Solution {
 public:
     bool parseBoolExpr(string expression) {
         vector<char> st;
-        
         for (char c : expression) {
             if (c == ',' || c == '(') {
                 continue;
@@ -11,16 +10,13 @@ public:
                 st.push_back(c);
             } else if (c == ')') {
                 bool hasTrue = false, hasFalse = false;
-                
                 while (st.back() == 't' || st.back() == 'f') {
                     if (st.back() == 't') hasTrue = true;
                     if (st.back() == 'f') hasFalse = true;
                     st.pop_back();
                 }
-                
                 char op = st.back();
-                st.pop_back();
-                
+                st.pop_back(); 
                 if (op == '!') {
                     st.push_back(hasTrue ? 'f' : 't');
                 } else if (op == '&') {
@@ -30,7 +26,6 @@ public:
                 }
             }
         }
-        
         return st.back() == 't';
     }
 };
