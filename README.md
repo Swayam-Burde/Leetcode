@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swayam-Burde/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Swayam-Burde/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Swayam-Burde/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swayam-Burde/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
