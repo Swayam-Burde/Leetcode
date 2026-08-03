@@ -12,3 +12,11 @@ public:
         return dp[0] > 0;
     }
 };
+
+// Time Complexity = O(N^2)
+// Space Complexity = O(N)
+
+
+// Best Case = O(N^2)
+// Average Case = O(N^2)
+// Worst Case = O(N^2)
