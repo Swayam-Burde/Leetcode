@@ -2,13 +2,16 @@ class Solution {
 public:
     bool stoneGame(vector<int>& piles) {
         int n = piles.size();
-        sort(piles.begin(), piles.end());
-        int sum = accumulate(piles.begin(),piles.end(), 0);
-        long long aSum =0, bSum = 0;
-        for(int i = n-1; i >= 0; i -= 2){
-            aSum += piles[i];
+        vector<vector<int>> dp(n, vector<int>(n , 0));
+        for(int i = 0; i < n; i++){
+            dp[i][i] = piles[i];
+            for(int len = 2; len <= n; len++){
+                for(int i = 0; i <= n - len; i++){
+                    int j = i + len - 1;
+                    dp[i][j] = max(piles[i] - dp[i+1][j], piles[j] - dp[i][j - 1]);
+                }
+            }
         }
-        bSum = sum - aSum;
-        return aSum > bSum;
+        return dp[0][n -1] > 0;
     }
 };
