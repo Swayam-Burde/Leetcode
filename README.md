@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Swayam-Burde/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Swayam-Burde/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Swayam-Burde/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
