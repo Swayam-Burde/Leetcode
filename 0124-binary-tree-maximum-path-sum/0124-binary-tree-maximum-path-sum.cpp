@@ -24,3 +24,11 @@ public:
         return maxi;
     }
 };
+
+
+// Space Complexity = O(Height of tree)
+// Time Complexity = O(N)
+
+// Best Case = O(logN)
+// Average Case = O(logN)
+// Worst Case =  O(N)
