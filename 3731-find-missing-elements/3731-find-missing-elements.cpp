@@ -3,13 +3,12 @@ public:
     vector<int> findMissingElements(vector<int>& nums) {
         vector<int> ans;
         int n = nums.size();
-        unordered_set<int> el(nums.begin(), nums.end());
-        int minel = *min_element(nums.begin(), nums.end());
-        int maxel = *max_element(nums.begin(), nums.end());
-        for(int i = minel; i <= maxel; i++){
-            if(el.find(i) == el.end()){
-                ans.push_back(i);
-            }
+        sort(nums.begin(), nums.end());
+        unordered_set<int> st(nums.begin(), nums.end());
+        int minel = nums[0];
+        int maxel = nums.back();
+        for(int i = minel + 1; i <= maxel - 1; i++){
+            if(st.count(i) == 0) ans.push_back(i);
         }
         return ans;
     }
