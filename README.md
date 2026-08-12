@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swayam-Burde/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/Swayam-Burde/Leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Swayam-Burde/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
