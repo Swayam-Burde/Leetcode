@@ -37,3 +37,13 @@ public:
         return 1 + countNodes(root -> left) + countNodes(root -> right);
     }
 };
+
+// Time Complexity
+// Best Case: O(log N)
+// Average Case: O(log^2 N)
+// Worst Case: O(log^2 N)
+
+// Space Complexity
+// Best Case: O(1)
+// Average Case: O(log N)
+// Worst Case: O(log N)
