@@ -304,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Swayam-Burde/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
