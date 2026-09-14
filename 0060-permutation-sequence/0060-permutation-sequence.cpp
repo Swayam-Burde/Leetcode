@@ -3,7 +3,6 @@ public:
     string getPermutation(int n, int k) {
         string num = "";
         string target = "";
-        vector<string> str;
         for (int i = 1; i <= n; i++) {
             num = num + to_string(i);
         }
