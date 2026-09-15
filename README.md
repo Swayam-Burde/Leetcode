@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0060-permutation-sequence) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Swayam-Burde/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swayam-Burde/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Swayam-Burde/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
