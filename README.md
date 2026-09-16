@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Swayam-Burde/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Swayam-Burde/Leetcode/tree/master/0046-permutations) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Swayam-Burde/Leetcode/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
