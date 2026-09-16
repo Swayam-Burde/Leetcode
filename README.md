@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/Swayam-Burde/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Swayam-Burde/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Swayam-Burde/Leetcode/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Swayam-Burde/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
