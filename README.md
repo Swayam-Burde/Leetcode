@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Swayam-Burde/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/Swayam-Burde/Leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0060-permutation-sequence) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
