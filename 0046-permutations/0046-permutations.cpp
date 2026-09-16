@@ -1,18 +1,19 @@
 class Solution {
 public:
-    int fact(int n){
-        int a = 1;
-        for(int i = 1; i <= n; i++){
-            a *= i;
+    void generate(int i, vector<int>& nums, vector<vector<int>>& ans){
+        if(i == nums.size()){
+            ans.push_back(nums);
+            return;
         }
-        return a;
+        for(int j = i; j < nums.size(); j++){
+            swap(nums[i],nums[j]);
+            generate(i+1, nums,ans);
+            swap(nums[i],nums[j]);
+        }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
-        for(int i = 0; i < fact(nums.size()); i++){
-            next_permutation(nums.begin(),nums.end());
-            ans.push_back(nums);
-        }
+        generate(0,nums,ans);
         return ans;
     }
 };
