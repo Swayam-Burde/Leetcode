@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Swayam-Burde/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Swayam-Burde/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Swayam-Burde/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
