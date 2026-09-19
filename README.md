@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Swayam-Burde/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swayam-Burde/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Swayam-Burde/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Swayam-Burde/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
