@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Swayam-Burde/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swayam-Burde/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Swayam-Burde/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/Swayam-Burde/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Matrix
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Swayam-Burde/Leetcode/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/Swayam-Burde/Leetcode/tree/master/0682-baseball-game) |
 ## Algorithm X
 |  |
 | ------- |
