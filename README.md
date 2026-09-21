@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Swayam-Burde/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Swayam-Burde/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Swayam-Burde/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
