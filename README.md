@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Swayam-Burde/Leetcode/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Swayam-Burde/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Swayam-Burde/Leetcode/tree/master/0068-text-justification) |
 ## Algorithm X
 |  |
 | ------- |
