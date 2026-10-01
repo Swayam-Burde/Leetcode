@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Swayam-Burde/Leetcode/tree/master/0016-3sum-closest) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Swayam-Burde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Swayam-Burde/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Database
 |  |
