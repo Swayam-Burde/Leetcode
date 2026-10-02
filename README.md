@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Swayam-Burde/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0052-n-queens-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Swayam-Burde/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Swayam-Burde/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
@@ -391,4 +394,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Swayam-Burde/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
