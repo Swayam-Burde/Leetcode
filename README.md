@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Swayam-Burde/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Swayam-Burde/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Swayam-Burde/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Swayam-Burde/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Swayam-Burde/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Swayam-Burde/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Swayam-Burde/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Swayam-Burde/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
