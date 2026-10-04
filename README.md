@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Swayam-Burde/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/Swayam-Burde/Leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Swayam-Burde/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Swayam-Burde/Leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Swayam-Burde/Leetcode/tree/master/0089-gray-code) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Swayam-Burde/Leetcode/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Swayam-Burde/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
