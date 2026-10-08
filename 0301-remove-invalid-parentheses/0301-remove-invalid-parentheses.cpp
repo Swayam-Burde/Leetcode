@@ -1,44 +1,35 @@
 class Solution {
 public:
-    void dfs(const string& s, int index, int remL, int remR, int openCount, string curr, unordered_set<string>& res) {
-        if (openCount < 0) return;
-
-        if (index == s.length()) {
-            if (remL == 0 && remR == 0 && openCount == 0) {
-                res.insert(curr);
+    vector<string> ans;
+    void remove(string s, int start, int lastRemove, char open, char close) {
+        int balance = 0;
+        for (int i = start; i < s.size(); i++) {
+            if (s[i] == open)
+                balance++;
+            else if (s[i] == close)
+                balance--;
+            if (balance < 0) {
+                for (int j = lastRemove; j <= i; j++) {
+                    if (s[j] == close &&
+                        (j == lastRemove || s[j - 1] != close)) {
+                        string next = s.substr(0, j) + s.substr(j + 1);
+                        remove(next, i, j, open, close);
+                    }
+                }
+                return;
             }
-            return;
         }
-
-        char c = s[index];
-
-        if (c == '(') {
-            if (remL > 0) {
-                dfs(s, index + 1, remL - 1, remR, openCount, curr, res);
-            }
-            dfs(s, index + 1, remL, remR, openCount + 1, curr + c, res);
-        } else if (c == ')') {
-            if (remR > 0) {
-                dfs(s, index + 1, remL, remR - 1, openCount, curr, res);
-            }
-            dfs(s, index + 1, remL, remR, openCount - 1, curr + c, res);
+        string reversed = s;
+        reverse(reversed.begin(), reversed.end());
+        if (open == '(') {
+            remove(reversed, 0, 0, ')', '(');
         } else {
-            dfs(s, index + 1, remL, remR, openCount, curr + c, res);
+            ans.push_back(reversed);
         }
     }
-    vector<string> removeInvalidParentheses(string s) {
-        int remL = 0, remR = 0;
-        for (char c : s) {
-            if (c == '(') {
-                remL++;
-            } else if (c == ')') {
-                if (remL > 0) remL--;
-                else remR++;
-            }
-        }
 
-        unordered_set<string> uniqueRes;
-        dfs(s, 0, remL, remR, 0, "", uniqueRes);
-        return vector<string>(uniqueRes.begin(), uniqueRes.end());
+    vector<string> removeInvalidParentheses(string s) {
+        remove(s, 0, 0, '(', ')');
+        return ans;
     }
 };
