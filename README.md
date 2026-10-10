@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Swayam-Burde/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Swayam-Burde/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Swayam-Burde/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Swayam-Burde/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0086-partition-list) |
+| [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Swayam-Burde/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
