@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Swayam-Burde/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Swayam-Burde/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Swayam-Burde/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/0494-target-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Swayam-Burde/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Swayam-Burde/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Swayam-Burde/Leetcode/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Swayam-Burde/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swayam-Burde/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Swayam-Burde/Leetcode/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Swayam-Burde/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1048-longest-string-chain](https://github.com/Swayam-Burde/Leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Swayam-Burde/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Swayam-Burde/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Swayam-Burde/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Swayam-Burde/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
