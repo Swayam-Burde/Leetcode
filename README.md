@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Swayam-Burde/Leetcode/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Swayam-Burde/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Swayam-Burde/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Swayam-Burde/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Swayam-Burde/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Swayam-Burde/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Swayam-Burde/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Lifting
 |  |
