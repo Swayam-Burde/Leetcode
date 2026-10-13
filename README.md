@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Swayam-Burde/Leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Swayam-Burde/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Swayam-Burde/Leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Swayam-Burde/Leetcode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Swayam-Burde/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Swayam-Burde/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Swayam-Burde/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Swayam-Burde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Swayam-Burde/Leetcode/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/Swayam-Burde/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Swayam-Burde/Leetcode/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/Swayam-Burde/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Two Pointers
