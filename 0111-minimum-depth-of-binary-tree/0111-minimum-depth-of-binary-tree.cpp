@@ -11,22 +11,14 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, int& depth, int curr){
-        if(root == NULL){
-            curr--;
-            return;
-        }
-        if(root -> left == NULL && root -> right == NULL){
-            depth = min(depth, curr);
-        }
-        dfs(root -> left, depth, curr+1);
-        dfs(root -> right, depth, curr+1);
-    }
     int minDepth(TreeNode* root) {
-        int depth = INT_MAX;
-        int curr = 1;
         if(root == NULL) return 0;
-        dfs(root, depth, curr);
-        return depth;
+        if(root -> left == NULL){
+            return 1 + minDepth(root -> right);
+        }
+        if(root -> right == NULL){
+            return 1 + minDepth(root -> left);
+        }
+        return 1 + min(minDepth(root -> left), minDepth(root -> right));
     }
 };
